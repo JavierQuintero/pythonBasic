@@ -10,7 +10,7 @@ Sintaxis básica de Python
 
 - 💱 Variables
 -  ✔ Operadores relacinales, logicos...
-- 👯 Condicionales
+- ⚖ Condicionales
 - 💬 Estrcturas de datos
 - ⚡ Ciclos
 - 🧮 Funciones
