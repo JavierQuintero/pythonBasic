@@ -13,7 +13,7 @@ Sintaxis básica de Python
 - 👯 Condicionales
 - 💬 Estrcturas de datos
 - ⚡ Ciclos
--   Funciones
+- 🧮 Funciones
 
 </h4>
 </div>
